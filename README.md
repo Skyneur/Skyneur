@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="https://www.canva.com/design/DAFZ-sq8Uvs/EfTRUxOwoWYnaeVFOaDQnA/watch?utm_content=DAFZ-sq8Uvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/></div>
+        <img src="https://cdn.discordapp.com/attachments/1033722188831932448/1072846286727938059/SKN.gif"/></div>
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-        <img src="[https://cdn.discordapp.com/attachments/1033722188831932448/1072847067401175110/SKN.mp4](https://avatars.githubusercontent.com/u/77664746?v=4)"/></div>
+        <img src="https://imgur.com/a/ows3ooP"/></div>
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 

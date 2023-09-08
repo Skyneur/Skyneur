@@ -1,28 +1,27 @@
 <div id="header" align="center">
-        <img src="https://imgur.com/a/ows3ooP.png"/></div>
 
-<h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Salut à tous</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a>
 </p>
 
 
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **Moi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
 
-- Corwin van Velthuizen (**CorwinDev**)
+- Gaillard Tom (**Skyneur**)
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, but I'm always willing to learn new things! I am 16 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses ! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+<img src="https://imgur.com/MBmDwBf.png" alt="contact mee">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -79,14 +78,14 @@ I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, but I'm
 <ul>
 
 <li>
-<a href="https://instagram.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/skyneuroff" target="_blank">
+<img src="https://img.shields.io/badge/twitter:Skyneur-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
-<a href="https://www.linkedin.com/in/corwindev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<a href="https://www.discord.com" target="_blank">
+<img src="https://img.shields.io/badge/discord:skyyneur-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>

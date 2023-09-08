@@ -2,6 +2,7 @@
 
 <h1 align="center"><b>Salut à tous</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a>
 </p>
@@ -17,7 +18,6 @@
 - Gaillard Tom (**Skyneur**)
 ---
 <br><br>
-
 Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses ! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
 <br><br>
 

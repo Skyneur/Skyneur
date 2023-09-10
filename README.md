@@ -12,9 +12,10 @@
 Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
 <p align="center"><img src="https://imgur.com/MBmDwBf.png"></p>
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px><b> Skills</b>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <br>
 
 <p align="center">

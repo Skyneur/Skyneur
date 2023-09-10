@@ -7,7 +7,7 @@
 </p>
 
 ## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>Moi
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
 
 - Gaillard Tom (**Skyneur**)
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

@@ -7,8 +7,6 @@
 </p>
 
 ## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>Moi
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
-
 - Gaillard Tom (**Skyneur**)
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>

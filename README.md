@@ -9,7 +9,7 @@
 ## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px><b> Moi</b>
 - Gaillard Tom (**Skyneur**)
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
+Je suis un développeur full stack. J'ai de l'expérience avec LUA, PHP, JS, HTML, CSS, je suis toujours prêt à apprendre de nouvelles choses! J'ai 17 ans et je vis en France. J'ai environ 3ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
 <p align="center"><img src="https://imgur.com/MBmDwBf.png"></p>
 <br><br>
 
@@ -33,6 +33,7 @@ Je suis un développeur full stack. J'ai de l'expérience avec LUA, JAVA, JS, HT
 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![SQLLite](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=sqllite&logoColor=white)
 
 - **Softwares and Tools**:
     

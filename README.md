@@ -73,7 +73,7 @@ Je suis un développeur full stack. J'ai de l'expérience avec LUA, PHP, JS, HTM
 </li>
 <br>
 <li>
-<a href="https://www.discord.com" target="_blank">
+<a href="mailto:https://contact@tomgaillard.fr" target="_blank">
 <img src="https://img.shields.io/badge/discord:skyyneur-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>

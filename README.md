@@ -9,7 +9,7 @@
 ## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px><b> Moi</b>
 - Gaillard Tom (**Skyneur**)
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-Je suis un développeur full stack. J'ai de l'expérience avec HTML, PHP, JS, HTML, CSS, et LUA. Je suis toujours prêt à apprendre de nouvelles choses! J'ai 18 ans et je vis en France. J'ai environ 4ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via <a href="#contact">les liens ci-dessous! </a>
+Je suis un développeur full stack. J'ai de l'expérience avec HTML, PHP, JS, HTML, CSS, et LUA. Je suis toujours prêt à apprendre de nouvelles choses! J'ai 18 ans et je vis en France. J'ai environ 4ans d'expérience dans le developpement informatique. Je suis toujours à la recherche de nouveaux défis ! Contactez-moi via les liens <a href="#contact">ci-dessous!</a>
 <p align="center"><img src="https://imgur.com/MBmDwBf.png"></p>
 <br><br>
 

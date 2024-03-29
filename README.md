@@ -31,8 +31,8 @@ Je suis un développeur full stack. J'ai de l'expérience avec LUA, PHP, JS, HTM
 
 - **Databases**:
 
-    ![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![SQLLite](https://img.shields.io/badge/SQLLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - **Softwares and Tools**:

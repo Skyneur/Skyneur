@@ -36,7 +36,7 @@ Je suis un développeur full stack. J'ai de l'expérience avec LUA, PHP, JS, HTM
 
 - **Softwares and Tools**:
 
-    ![JetBrain](https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=node.js&logoColor=white)
+    ![JetBrain](https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

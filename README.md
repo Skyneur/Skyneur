@@ -3,7 +3,7 @@
 I'm Skyneur (a.k.a Tom). I'm from Montpellier, France and I'm now studying at EPSI, France. 
 
 🗒️ [**My WebSite**](https://tomgaillard.fr)  
-👨‍💼 [**My freelancer page**]([https://fiverr.com/androz2091](https://tomgaillard.fr))  
+👨‍💼 [**My freelancer page**](https://tomgaillard.fr/soon)  
 
 Alongside the software projects presented below, I spend a lot of time maintaining my own cloud server.  
 🕸️ [**My k8s cluster**](https://github.com/Androz2091/k8s-infrastructure)
@@ -20,9 +20,9 @@ I spent most of my time working on open-source software, such as:
 
 ### Skills & Tools 🖱️
 
-When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.![](https://hit.yhype.me/github/profile?user_id=42497995)
+When I need to build things, I usually go for **React** to code my websites and **Node.js** with **JavaScript** for my bots and APIs. My favorite database is definitely **Sqlite** et **MongoDB**.
 
-I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord or Twitter! 😁
+J'adore découvrir des langages ou frameworks qui augmentent ma productivité pour mes nouveaux projets tels que Symfony, Django, Flutter alors n'hésitez pas à m'envoyer un message avec vos recommandations sur Discord ou par EMail ! 😁
 
 ### Contact me 🤝
 

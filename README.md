@@ -12,12 +12,11 @@ Alongside the software projects presented below, I spend a lot of time maintaini
 
 I spent most of my time working on open-source software, such as:
 
-* **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
-* **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **iOS and Android**.  
-* **[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)**, to extract statistics from your Discord data package
-* **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)**, to make a Discord BOT without any coding knowledge
-* **[ManageInvite](https://github.com/manage-invite)**, a +15,000 servers Discord BOT to manage your server invites
-* and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**, **[discord-invites-tracker](https://github.com/Androz2091/discord-invites-tracker)**, **[discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)**, **[discord-sync-commands](https://github.com/Androz2091/discord-sync-commands)**...
+* **[Hôtel Neptune](https://github.com/Skyneur/Projet-Neptune)**, "Neptune is a task and project management platform designed to help teams collaborate in an efficient and organized way." 
+* **[NBA Data Scraping](https://github.com/Skyneur/NBA-Scraping)**, To extract statistics from NBA site
+* **[ParcourSup](https://github.com/Skyneur/ParcourSup)**, A reproduction of how ParcourSup works in Python
+* **[WebSite Buger](https://github.com/Skyneur/Burger-Js-Work)**, A burger creation site with browser cache
+* and more like **[WebSite-Responsive](https://github.com/Skyneur/Site-Responsive)**, **[discord-bot](https://github.com/Skyneur/Discord-Bot)**...
 
 ### Skills & Tools 🖱️
 

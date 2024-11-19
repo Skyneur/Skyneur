@@ -5,9 +5,6 @@ I'm Skyneur (a.k.a Tom). I'm from Montpellier, France and I'm now studying at EP
 🗒️ [**My WebSite**](https://tomgaillard.fr)  
 👨‍💼 [**My freelancer page**](https://tomgaillard.fr/soon)  
 
-Alongside the software projects presented below, I spend a lot of time maintaining my own cloud server.  
-🕸️ [**My k8s cluster**](https://github.com/Androz2091/k8s-infrastructure)
-
 ### Projects ✨
 
 I spent most of my time working on open-source software, such as:

@@ -1,10 +1,9 @@
 ## Hey there 👋
 
-I'm Androz2091 (a.k.a Simon). I'm from Toulouse, France and I'm now studying at EPFL, Switzerland. 
+I'm Skyneur (a.k.a Tom). I'm from Montpellier, France and I'm now studying at EPSI, France. 
 
-🗒️ [**My blog**](https://blog.androz2091.fr)  
-👨‍💼 [**My freelancer page**](https://fiverr.com/androz2091)  
-🟢 [**ismyserverworki.ng ?**](https://ismyserverworki.ng)
+🗒️ [**My WebSite**](https://tomgaillard.fr)  
+👨‍💼 [**My freelancer page**]([https://fiverr.com/androz2091](https://tomgaillard.fr))  
 
 Alongside the software projects presented below, I spend a lot of time maintaining my own cloud server.  
 🕸️ [**My k8s cluster**](https://github.com/Androz2091/k8s-infrastructure)

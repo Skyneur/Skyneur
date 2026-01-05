@@ -12,7 +12,7 @@ I spent most of my time working on open-source software, such as:
 * **[zSite](https://github.com/Skyneur/zSite)**, A React website for a developer group
 * **[Hôtel Neptune](https://github.com/Skyneur/Projet-Neptune)**, "Neptune is a task and project management platform designed to help teams collaborate in an efficient and organized way." 
 * **[NBA Data Scraping](https://github.com/Skyneur/NBA-Scraping)**, To extract statistics from NBA site
-* and more like **[Java-Bank](https://github.com/Skyneur/JavaBanque)**, **[Website](https://github.com/Skyneur/ParcourSup)**...
+* and more like **[Discord Bot](https://github.com/Skyneur/Diego-Bot)**, **[Website](https://github.com/Skyneur/ParcourSup)**...
 
 ### Skills & Tools 🖱️
 
